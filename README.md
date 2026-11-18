@@ -20,6 +20,3 @@ Projetos organizados por categoria.
 - Desafio-JS-Biscoito-da-sorte
 - desafio-mobile-first
 
-## Outros
-
-- universe
