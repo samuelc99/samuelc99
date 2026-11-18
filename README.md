@@ -5,17 +5,21 @@ Projetos organizados por categoria.
 ## Projetos completos
 
 - loja-checkout
-- Cadastro de Ações Sociais (front-end e back-end)
-- foodExpo (front-end e back-end)
-- Rocket Movies (front-end e back-end)
-- Rocket Notes (front-end e back-end)
+- CADASTRO-DE-A-ES-SOCIAIS-projeto-da-faculdade (front-end)
+- CadastroDeAcoesSociaisBACKEND (back-end)
+- FoodexpoFrontend (front-end)
+- foodExpoBackend (back-end)
+- RocketMoviesFrontend (front-end)
+- RocketMoviesBackend (back-end)
+- FrontendRocketNotes (front-end)
+- BackendRockeNotes (back-end)
 
 ## Desafios
 
-- DESAFIO-04-JS-MODO-ESCURO-
+- DESAFIO-04-JS-DARK-MODE-
 - Desafio-JS-Biscoito-da-sorte
 - desafio-mobile-first
 
 ## Outros
 
-- universo
+- universe
