@@ -1,16 +1,21 @@
-## Hi there 👋
+# Samuel Cristovão (samuelc99)
 
-<!--
-**samuelc99/samuelc99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Projetos organizados por categoria.
 
-Here are some ideas to get you started:
+## Projetos completos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- loja-checkout
+- Cadastro de Ações Sociais (front-end e back-end)
+- foodExpo (front-end e back-end)
+- Rocket Movies (front-end e back-end)
+- Rocket Notes (front-end e back-end)
+
+## Desafios
+
+- DESAFIO-04-JS-MODO-ESCURO-
+- Desafio-JS-Biscoito-da-sorte
+- desafio-mobile-first
+
+## Outros
+
+- universo
